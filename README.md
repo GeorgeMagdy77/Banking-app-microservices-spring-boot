@@ -1,1 +1,13 @@
-# Banking-app-microservices-spring-boot
+✅ Spring Boot 3
+✅ HTTP & API development
+✅ Databases & MySQL
+✅ Spring Data JPA
+✅ JDBC for efficient database communication
+✅ Docker for containerization and deployment
+✅ GCP for cloud-based hosting and scaling
+✅ DevOps best practices for agile, collaborative development
+✅ Spring Security 6 for secure, authenticated applications
+✅ Building resilient microservices using RESILIENCE4J framework
+✅ implementing observability and monitoring using Prometheus, Loki, Tempo and Grafana
+✅ build event driven microservices using RabbitMQ, Kafka, Spring Cloud Functions and Spring Cloud Stream
+✅ Role of Kubernetes in microservices as a container orchestration framework
