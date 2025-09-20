@@ -8,6 +8,6 @@
 - ✅ **DevOps best practices for agile, collaborative development**  
 - ✅ **Spring Security 6 for secure, authenticated applications**  
 - ✅ **Building resilient microservices using RESILIENCE4J framework**  
-- ✅ **Implementing observability and monitoring** using Prometheus, Loki, Tempo and Grafana  
-- ✅ **Build event-driven microservices** using RabbitMQ, Kafka, Spring Cloud Functions and Spring Cloud Stream  
-- ✅ **Role of Kubernetes in microservices** as a container orchestration framework  
+- ✅ **Implementing observability and monitoring using Prometheus, Loki, Tempo and Grafana**  
+- ✅ **Build event-driven microservices using RabbitMQ, Kafka, Spring Cloud Functions and Spring Cloud Stream**  
+- ✅ **Role of Kubernetes in microservices as a container orchestration framework**
